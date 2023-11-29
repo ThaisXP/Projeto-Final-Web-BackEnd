@@ -1,0 +1,1 @@
+INSERT INTO TBL_PESSOA (NOME, EMAIL, TELEFONE, ENDERECO, CIDADE, CEP, ESTADO) VALUES ('Thais', 'txp@gmail.com', '11 123456789', 'Rua Apaura', 'Sorocaba', '18050-000', 'SP');
