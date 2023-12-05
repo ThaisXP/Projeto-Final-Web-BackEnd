@@ -34,7 +34,7 @@ public class PessoaController {
     }
 
     @GetMapping("{id}")
-    public ResponseEntity<Pessoa> getClientById(@PathVariable int id) {
+    public ResponseEntity<Pessoa> getPessoaById(@PathVariable int id) {
         return ResponseEntity.ok(service.getPessoaById(id));
     }
 
