@@ -1,1 +1,5 @@
 INSERT INTO TBL_PESSOA (NOME, EMAIL, TELEFONE, ENDERECO, CIDADE, CEP, ESTADO) VALUES ('Thais', 'txp@gmail.com', '11 123456789', 'Rua Apaura', 'Sorocaba', '18050-000', 'SP');
+INSERT INTO TBL_PESSOA (NOME, EMAIL, TELEFONE, ENDERECO, CIDADE, CEP, ESTADO) VALUES ('Matheus', 'matheus@gmail.com', '11 123456789', 'Rua Ita', 'Itu', '12345-422', 'SP');
+INSERT INTO TBL_PESSOA (NOME, EMAIL, TELEFONE, ENDERECO, CIDADE, CEP, ESTADO) VALUES ('Larissa', 'lari@gmail.com', '11 123456789', 'Av. Armando Pannunzio', 'Sorocaba', '09876-346', 'SP');
+INSERT INTO TBL_PESSOA (NOME, EMAIL, TELEFONE, ENDERECO, CIDADE, CEP, ESTADO) VALUES ('Leonardo', 'lz@gmail.com', '11 123456789', 'Rua Guarapuava', 'Salto', '78345-345', 'SP');
+INSERT INTO TBL_PESSOA (NOME, EMAIL, TELEFONE, ENDERECO, CIDADE, CEP, ESTADO) VALUES ('Gabriel', 'gahro7@gmail.com', '11 123456789', 'Rua Amazonas', 'Maringa', '18050-111', 'PR');
